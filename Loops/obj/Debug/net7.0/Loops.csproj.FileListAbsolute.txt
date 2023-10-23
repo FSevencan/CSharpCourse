@@ -1,0 +1,14 @@
+C:\Users\SEVENCAN\Desktop\CSharpCourse\Loops\bin\Debug\net7.0\Loops.exe
+C:\Users\SEVENCAN\Desktop\CSharpCourse\Loops\bin\Debug\net7.0\Loops.deps.json
+C:\Users\SEVENCAN\Desktop\CSharpCourse\Loops\bin\Debug\net7.0\Loops.runtimeconfig.json
+C:\Users\SEVENCAN\Desktop\CSharpCourse\Loops\bin\Debug\net7.0\Loops.dll
+C:\Users\SEVENCAN\Desktop\CSharpCourse\Loops\bin\Debug\net7.0\Loops.pdb
+C:\Users\SEVENCAN\Desktop\CSharpCourse\Loops\obj\Debug\net7.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEVENCAN\Desktop\CSharpCourse\Loops\obj\Debug\net7.0\Loops.AssemblyInfoInputs.cache
+C:\Users\SEVENCAN\Desktop\CSharpCourse\Loops\obj\Debug\net7.0\Loops.AssemblyInfo.cs
+C:\Users\SEVENCAN\Desktop\CSharpCourse\Loops\obj\Debug\net7.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\SEVENCAN\Desktop\CSharpCourse\Loops\obj\Debug\net7.0\Loops.dll
+C:\Users\SEVENCAN\Desktop\CSharpCourse\Loops\obj\Debug\net7.0\refint\Loops.dll
+C:\Users\SEVENCAN\Desktop\CSharpCourse\Loops\obj\Debug\net7.0\Loops.pdb
+C:\Users\SEVENCAN\Desktop\CSharpCourse\Loops\obj\Debug\net7.0\Loops.genruntimeconfig.cache
+C:\Users\SEVENCAN\Desktop\CSharpCourse\Loops\obj\Debug\net7.0\ref\Loops.dll
