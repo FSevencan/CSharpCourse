@@ -1,0 +1,14 @@
+C:\Users\SEVENCAN\Desktop\Tobeto Dosyalar\CSharpCourse\İnterfaces\obj\Debug\net7.0\İnterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEVENCAN\Desktop\Tobeto Dosyalar\CSharpCourse\İnterfaces\obj\Debug\net7.0\İnterfaces.AssemblyInfoInputs.cache
+C:\Users\SEVENCAN\Desktop\Tobeto Dosyalar\CSharpCourse\İnterfaces\obj\Debug\net7.0\İnterfaces.AssemblyInfo.cs
+C:\Users\SEVENCAN\Desktop\Tobeto Dosyalar\CSharpCourse\İnterfaces\obj\Debug\net7.0\İnterfaces.csproj.CoreCompileInputs.cache
+C:\Users\SEVENCAN\Desktop\Tobeto Dosyalar\CSharpCourse\İnterfaces\bin\Debug\net7.0\İnterfaces.exe
+C:\Users\SEVENCAN\Desktop\Tobeto Dosyalar\CSharpCourse\İnterfaces\bin\Debug\net7.0\İnterfaces.deps.json
+C:\Users\SEVENCAN\Desktop\Tobeto Dosyalar\CSharpCourse\İnterfaces\bin\Debug\net7.0\İnterfaces.runtimeconfig.json
+C:\Users\SEVENCAN\Desktop\Tobeto Dosyalar\CSharpCourse\İnterfaces\bin\Debug\net7.0\İnterfaces.dll
+C:\Users\SEVENCAN\Desktop\Tobeto Dosyalar\CSharpCourse\İnterfaces\bin\Debug\net7.0\İnterfaces.pdb
+C:\Users\SEVENCAN\Desktop\Tobeto Dosyalar\CSharpCourse\İnterfaces\obj\Debug\net7.0\İnterfaces.dll
+C:\Users\SEVENCAN\Desktop\Tobeto Dosyalar\CSharpCourse\İnterfaces\obj\Debug\net7.0\refint\İnterfaces.dll
+C:\Users\SEVENCAN\Desktop\Tobeto Dosyalar\CSharpCourse\İnterfaces\obj\Debug\net7.0\İnterfaces.pdb
+C:\Users\SEVENCAN\Desktop\Tobeto Dosyalar\CSharpCourse\İnterfaces\obj\Debug\net7.0\İnterfaces.genruntimeconfig.cache
+C:\Users\SEVENCAN\Desktop\Tobeto Dosyalar\CSharpCourse\İnterfaces\obj\Debug\net7.0\ref\İnterfaces.dll
