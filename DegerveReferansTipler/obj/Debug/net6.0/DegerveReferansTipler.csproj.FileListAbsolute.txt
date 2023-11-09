@@ -1,0 +1,14 @@
+C:\Users\SEVENCAN\source\repos\Solution1\DegerveReferansTipler\bin\Debug\net6.0\DegerveReferansTipler.exe
+C:\Users\SEVENCAN\source\repos\Solution1\DegerveReferansTipler\bin\Debug\net6.0\DegerveReferansTipler.deps.json
+C:\Users\SEVENCAN\source\repos\Solution1\DegerveReferansTipler\bin\Debug\net6.0\DegerveReferansTipler.runtimeconfig.json
+C:\Users\SEVENCAN\source\repos\Solution1\DegerveReferansTipler\bin\Debug\net6.0\DegerveReferansTipler.dll
+C:\Users\SEVENCAN\source\repos\Solution1\DegerveReferansTipler\bin\Debug\net6.0\DegerveReferansTipler.pdb
+C:\Users\SEVENCAN\source\repos\Solution1\DegerveReferansTipler\obj\Debug\net6.0\DegerveReferansTipler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEVENCAN\source\repos\Solution1\DegerveReferansTipler\obj\Debug\net6.0\DegerveReferansTipler.AssemblyInfoInputs.cache
+C:\Users\SEVENCAN\source\repos\Solution1\DegerveReferansTipler\obj\Debug\net6.0\DegerveReferansTipler.AssemblyInfo.cs
+C:\Users\SEVENCAN\source\repos\Solution1\DegerveReferansTipler\obj\Debug\net6.0\DegerveReferansTipler.csproj.CoreCompileInputs.cache
+C:\Users\SEVENCAN\source\repos\Solution1\DegerveReferansTipler\obj\Debug\net6.0\DegerveReferansTipler.dll
+C:\Users\SEVENCAN\source\repos\Solution1\DegerveReferansTipler\obj\Debug\net6.0\refint\DegerveReferansTipler.dll
+C:\Users\SEVENCAN\source\repos\Solution1\DegerveReferansTipler\obj\Debug\net6.0\DegerveReferansTipler.pdb
+C:\Users\SEVENCAN\source\repos\Solution1\DegerveReferansTipler\obj\Debug\net6.0\DegerveReferansTipler.genruntimeconfig.cache
+C:\Users\SEVENCAN\source\repos\Solution1\DegerveReferansTipler\obj\Debug\net6.0\ref\DegerveReferansTipler.dll
